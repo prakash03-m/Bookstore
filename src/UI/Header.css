@@ -1,0 +1,61 @@
+.header, .footer {
+    width: 96.5%;
+    /* text-align: center; */
+    font-size: 35px;
+    padding: 5px;
+    background: lightgreen;
+    margin: 20px;
+    display: inline-flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+#pHeader {
+    width: 120px;
+    cursor: default;
+    /* visibility: hidden; */
+}
+
+#homePage {
+    margin-left: 45px;
+    text-align: left;
+}
+
+.headerMisc {
+    display: inline-flex;
+}
+
+h6 {
+    margin-right: 43px;
+    margin-top: 39px;
+}
+
+.footer {
+    font-size: 15px;
+    text-align: left;
+    justify-content: space-around;
+    background:lightgray;
+    align-items: flex-start;
+}
+
+.icon {
+    margin-top: 14px;
+}
+
+#homePage,#header,h6 {
+    cursor: pointer;
+}
+
+#header {
+    text-align: left;
+    width: 120px;
+    font: inherit;
+    font-size: small;
+    color: black;
+    background-color: lightgreen;
+    border: lightgreen;
+    /* padding: 0.5rem 1.5rem; */
+    border-radius: -31px;
+    /* margin-right: 25px; */
+    margin-top: 30px;
+}

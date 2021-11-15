@@ -1,0 +1,24 @@
+.booksLabel {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color:green;
+    text-decoration-thickness: 2px;
+}
+
+.bookslist {
+    width: 97.75%;
+    background: lightblue;
+    margin-left: 13px;
+    padding: 45px;
+    display: inline-flex;
+    justify-content: space-around;
+}
+
+.book {
+    display: block;
+    cursor: pointer;
+}
+
+.cartIcon {
+    margin-left: -12px;
+}

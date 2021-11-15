@@ -1,0 +1,34 @@
+#loginEmail, #loginPwd {
+  width: 220px;
+}
+
+label {
+  width: 80px;
+}
+
+#loginModalButton {
+  margin-right: 20px;
+  font: inherit;
+  color: black;
+  background-color:lightgreen;
+  border: 1px solid rgb(89, 250, 89);
+  padding: 0.5rem 1.5rem;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 2%;
+}
+
+
+#loginModalEmail{
+  margin-bottom: 5px;
+}
+
+#displayPassword {
+  margin-top: 4px;
+  width: 140px;
+  margin-left: 5px;
+}
+
+#loginModalFooter {
+  display: inline-table;
+}

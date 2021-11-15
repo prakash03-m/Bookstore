@@ -1,0 +1,19 @@
+.checkoutItems {
+    margin-left: 32px;
+}
+
+#checkouth4{
+    text-align: center;
+}
+
+.checkoutButton {
+    background: lightblue;
+    display: block;
+}
+
+.addItemsButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}

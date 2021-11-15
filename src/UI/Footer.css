@@ -1,0 +1,15 @@
+.tags {
+    text-decoration: underline;
+    text-decoration-color:green;
+    text-decoration-thickness: 2px;
+}
+
+.tag {
+    cursor: pointer;
+    display: block;
+}
+
+.footerElements {
+    display: grid;
+    justify-content: center;
+}

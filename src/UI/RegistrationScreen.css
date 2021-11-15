@@ -1,0 +1,36 @@
+button.registrationBtn:hover{
+    background-color: aquamarine;
+}
+
+button.cancel:hover{
+    background-color:palevioletred;
+}
+
+.registration {
+    background-color: lightblue;
+    padding-right: 3rem;
+    padding-bottom: 3rem;
+    padding-left: 3rem;
+    padding-top: 3rem;
+    border-style: ridge;
+    border-radius: 12px;
+    width: 90%;
+    margin-top: 20px;
+    margin-left: 51px;
+}
+
+.registration input,
+.registration label, select, textarea {
+    display: block;
+    width: 350px;
+}
+
+.registration input,
+textarea, select {
+   font: inherit;
+   padding: 0.5rem;
+   border-radius: 4px;
+   background: rgb(231, 229, 229);
+   border: 1px solid #ccc;
+   margin-bottom: 0.5%;
+}
